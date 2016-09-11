@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Wizard",
+        "description": "Wizards are spellcasters well-trained in the theoretical aspects of magic. Those who follow other spellcasting Disciplines sometimes disparage Wizards as being simple “book magicians,” but it is interesting to note that very few have the guts to call a Wizard that to his face.",
+        "important_attributes": "Perception, Willpower",
+        "karma_ritual": "To perform his Karma ritual, the Wizard draws a circle at least two yards in diameter, then inscribes a triangle within the circle. Making any corrections necessary for accuracy in drawing the first circle, the Wizard draws another circle inside the triangle. Then a triangle within that circle, and so on. Soon the Wizard will be forced to create figures smaller than hand and stylus can possibly draw. He must use the power of magic to continue to draw, even when the results become too small to be seen with the naked eye. The half-hour-long sequence ends with a triangle and is complete once this final triangle is drawn.",
+        "half_magic": "Wizards may use half-magic to recognize different types of magic use, identify specific uses of Wizardry, and for knowledge of magical rituals.",
+        "defense_bonuses": [
+            { "circle": 2, "defense": "Spell", "bonus": 1 },
+            { "circle": 8, "defense": "Spell", "bonus": 1 }
+        ],
+        "karma_rolls": [
+            { "circle": 4, "test_type": "The adept may spend 1 Karma Point on Perception-only Tests."},
+            { "circle": 6, "test_type": "The adept may spend 1 Karma Point on Willpower-only Tests."},
+            { "circle": 7, "test_type": "The adept may spend 1 Karma Point on spell effect Tests."}
+        ],
+        "discipline_ability": [
+            { "circle": 5, "name": "Book Mage", "description": "Taking 2 Strain, the adept does not suffer penalties to Spellcasting or Thread Weaving for attuning to or casting from a Grimoire, for the casting of one spell." }
+        ],
+        "durability": {
+            "unconscious": 3, "death": 4
+        },
+        "talents": [
+            { "circle": 1, "talent_name": "Arcane Mutterings", "talent_type": "optional" }, 
+            { "circle": 1, "talent_name": "Conversation", "talent_type": "optional" }, 
+            { "circle": 1, "talent_name": "Creature Analysis", "talent_type": "optional" }, 
+            { "circle": 1, "talent_name": "Evidence Analysis", "talent_type": "optional" }, 
+            { "circle": 1, "talent_name": "Spell Matrix", "talent_type": "optional" }, 
+            { "circle": 2, "talent_name": "Abate Curse", "talent_type": "optional" }, 
+            { "circle": 2, "talent_name": "Detect Weapon", "talent_type": "optional" }, 
+            { "circle": 2, "talent_name": "Durability", "talent_type": "optional" }, 
+            { "circle": 2, "talent_name": "Item History", "talent_type": "optional" },  
+            { "circle": 2, "talent_name": "Search", "talent_type": "optional" },  
+            { "circle": 2, "talent_name": "Speak Language", "talent_type": "optional" }, 
+            { "circle": 2, "talent_name": "Spell Matrix", "talent_type": "optional" }, 
+            { "circle": 2, "talent_name": "Spell Matrix", "talent_type": "optional" }, 
+            { "circle": 5, "talent_name": "Detect Trap", "talent_type": "optional" }, 
+            { "circle": 5, "talent_name": "Direction Sense", "talent_type": "optional" }, 
+            { "circle": 5, "talent_name": "Enhanced Matrix", "talent_type": "optional" },  
+            { "circle": 5, "talent_name": "Enhanced Matrix", "talent_type": "optional" }, 
+            { "circle": 5, "talent_name": "Lifesight", "talent_type": "optional" }, 
+            { "circle": 5, "talent_name": "Lip Reading", "talent_type": "optional" },  
+            { "circle": 5, "talent_name": "Orbiting Spy", "talent_type": "optional" }, 
+            { "circle": 5, "talent_name": "Willforce", "talent_type": "optional" },
+            { "circle": 1, "talent_name": "Astral Sight", "talent_type": "discipline" },  
+            { "circle": 1, "talent_name": "Karma Ritual", "talent_type": "discipline" }, 
+            { "circle": 1, "talent_name": "Read/Write Magic", "talent_type": "discipline" }, 
+            { "circle": 1, "talent_name": "Spellcasting", "talent_type": "discipline" }, 
+            { "circle": 1, "talent_name": "Spell Matrix", "talent_type": "discipline" }, 
+            { "circle": 1, "talent_name": "Thread Weaving", "talent_type": "discipline" }, 
+            { "circle": 2, "talent_name": "Read/Write Language", "talent_type": "discipline" }, 
+            { "circle": 3, "talent_name": "Book Memory", "talent_type": "discipline" }, 
+            { "circle": 4, "talent_name": "Research", "talent_type": "discipline" }, 
+            { "circle": 5, "talent_name": "Steel Thought", "talent_type": "discipline" }, 
+            { "circle": 6, "talent_name": "Book Recall", "talent_type": "discipline" }, 
+            { "circle": 7, "talent_name": "Resist Taunt", "talent_type": "discipline" }, 
+            { "circle": 8, "talent_name": "Hold Thread", "talent_type": "discipline" }
+        ]
+    }
+]

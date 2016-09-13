@@ -20,6 +20,7 @@
         "durability": {
             "unconscious": 3, "death": 4
         },
+        "threadweaving_talent": "Wizardry",
         "talents": [
             { "circle": 1, "talent_name": "Arcane Mutterings", "talent_type": "optional" }, 
             { "circle": 1, "talent_name": "Conversation", "talent_type": "optional" }, 

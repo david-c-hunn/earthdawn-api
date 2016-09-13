@@ -35,6 +35,7 @@ var DisciplineSchema = new Schema({
         death: { type: Number, required: true }
     },
     talents: [disciplineTalent],
+    threadweaving: { type: Schema.Types.ObjectId, required: true },
     defense_bonuses: [defenseBonus],
     karma_rolls: [karmaRoll]
 });

@@ -46,10 +46,26 @@ module.exports = function controller(Discipline, Talent) {
 
     // called prior to bulk upload
     function addTalentIds(req, res, next) {
+        function lookUpThreadWeavingIds(discDataArr, idx) {
+            var discData = discDataArr[idx],
+                name = discData.threadweaving_talent;
+
+            Talent.findOne({'name': name}, '_id', function(err, talent) {
+                if (!err && talent) {
+                    discData.threadweaving = talent._id;
+                }
+                if (++idx < discDataArr.length) {
+                    lookUpThreadWeavingIds(discDataArr, idx);
+                } else {
+                    lookUpTalentIds(discDataArr, 0, 0);
+                }
+            });
+        }
+
         function lookUpTalentIds(discData, discIdx, talentIdx) {
             var talentData = discData[discIdx].talents[talentIdx],
-                lastDiscIdx = discData.length - 1,
-                lastTalentIdx = discData[discIdx].talents.length - 1;
+                numDiscs = discData.length,
+                numTalents = discData[discIdx].talents.length;
 
             Talent.findOne(
                 {'name': talentData.talent_name}, '_id',
@@ -62,17 +78,17 @@ module.exports = function controller(Discipline, Talent) {
                         talentData.error = 'talent name ' +
                             talentData.talent_name + ' not found';
                     }
-                    if (discIdx == lastDiscIdx && talentIdx == lastTalentIdx) {
-                        next();
-                    } else if (talentIdx == lastTalentIdx) {
-                        lookUpTalentIds(discData, ++discIdx, 0);
+                    if (++talentIdx < numTalents) {
+                        lookUpTalentIds(discData, discIdx, talentIdx);
+                    } else if (++discIdx < numDiscs) {
+                        lookUpTalentIds(discData, discIdx, 0);
                     } else {
-                        lookUpTalentIds(discData, discIdx, ++talentIdx);
+                        next();
                     }
                 });
         }
 
-        lookUpTalentIds(req.body, 0, 0);
+        lookUpThreadWeavingIds(req.body, 0);
     }
 
     return {

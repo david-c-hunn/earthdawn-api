@@ -1,0 +1,1080 @@
+[
+  {
+    "name": "Suppress Curse",
+    "talent_name": "Abate Curse",
+    "rank": 12,
+    "strain": 3,
+    "description": "When using this knack, the adept no longer needs to stay within a specific range of his target for Abate Curse to function."
+  },
+  {
+    "name": "Acrobatics",
+    "talent_name": "Acrobatic Strike",
+    "rank": 4,
+    "strain": 0,
+    "description": "The Adept may elect to use his acrobatic strike talent outside of combat to navigate obstacles that normally require a dexterity test."
+  },
+  {
+    "name": "Air Legs",
+    "talent_name": "Air Sailing",
+    "rank": 4,
+    "strain": 2,
+    "description": "The adept keeps his footing in treacherous conditions while on an airship by making an Air Sailing Test in place of a Dexterity Test to avoid falling off the airship or in other similar situations \"aboard ship\" that require him to make a Dexterity Test. This knack cannot be used when the adept is on \"dry land.\""
+  },
+  {
+    "name": "Assault",
+    "talent_name": "Air Sailing",
+    "rank": 8,
+    "strain": 4,
+    "description": "If the adept is the captain of an airship, he gains an advantage when attempting the Firing maneuver against one or more enemy airships (see the Gamemaster's Companion for ship combat rules) by making an Air Sailing Test against his airship's Firepower Step. If successful, he gains a +2 bonus to the airship's Firepower or Maneuverability Test to reflect the vessel's superior positioning. If failed, the adept suffers a -2 penalty to the maneuver's Failure Modifier to reflect the vessel's more vulnerable positioning. Assault can only be used once per ship combat round."
+  },
+  {
+    "name": "Boarding Action",
+    "talent_name": "Air Sailing",
+    "rank": 8,
+    "strain": 4,
+    "description": "When fighting aboard an airship, the adept makes use of his surroundings to gain combat advantage. He makes an Air Sailing Test against his opponent's Social Defense as a Standard Action. On a Good Result, he uses his knowledge of the ship's layout to his advantage, tricking his opponent into dangerous positions. For Air Sailing Rank rounds, the opponent reduced his Movement Rate by 1 and increases the Difficulty Number of any Knockdown Tests he makes by +3, as he is constantly in danger of tripping over coiled ropes, barrels, or similar obstacles."
+  },
+  {
+    "name": "Far Speaking",
+    "talent_name": "Air Speaking",
+    "rank": 7,
+    "strain": 2,
+    "description": "The adept extends the range of his Air Speaking talent to Air Speaking Test × 20 yards."
+  },
+  {
+    "name": "Whispered Conversation",
+    "talent_name": "Air Speaking",
+    "rank": 7,
+    "strain": 1,
+    "description": "The adept makes an Air Speaking Test against the Spell Defense of a target no more than Air Speaking Rank × 4 yards (Rank × 2 hexes) away. If successful, only the target hears the adept speaking. A Whispered Conversation lasts minutes instead of hours."
+  },
+  {
+    "name": "Sooth The Savage Beast",
+    "talent_name": "Animal Bond",
+    "rank": 5,
+    "strain": 1,
+    "description": "Using this knack, the Adept sooths a hostile beast and prevents it from attacking himself or his designated companions.  Any aggressive move by either the beastmaster or his companions will end the effect of this talent."
+  },
+  {
+    "name": "Quick Command",
+    "talent_name": "Animal Training",
+    "rank": 4,
+    "strain": 1,
+    "description": "Using this knack, the Adept can quickly instruct an animal of Friendly or better disposition to obey a simple command, even if the animal has not yet been trained.  The command may only be carried out once by the companion and may last up to a number of minutes equal to the Adepts rank in Animal Training.  The command may not place the animal into a position of danger exceeding the Adept's."
+  },
+  {
+    "name": "Arcane Curses",
+    "talent_name": "Arcane Mutterings",
+    "rank": 7,
+    "strain": 1,
+    "description": "The adept utters vague but vile curses at his enemies and makes an Arcane Mutterings Test, but requires an Excellent Result. If successful, the targets believe they are cursed, and the adept is not required to continue muttering for the targets to remain Harried."
+  },
+  {
+    "name": "Iron Hide",
+    "talent_name": "Armor Mount",
+    "rank": 7,
+    "strain": 2,
+    "description": "The adept uses his Armor Mount talent to toughen the hide, bones, and sinew of his chosen mount.  If a successful Armor Mount test is made against the mounts spell defense, the mount's wound threshold is increased by the adept's rank in Armor Mount for a duration in minutes equal to the result of the test."
+  },
+  {
+    "name": "Diagnose",
+    "talent_name": "Astral Sight",
+    "rank": 7,
+    "strain": 2,
+    "description": "The adept determines if a subject is afflicted with any diseases or internal injuries and checks the target's general state of health by making an Astral Sight Test against the target's Spell Defense. On a Good Result, he detects any injuries, diseases, poisons, illnesses, or other afflictions affecting the target."
+  },
+  {
+    "name": "Lift the Curtain",
+    "talent_name": "Astral Sight",
+    "rank": 9,
+    "strain": 1,
+    "description": "The adept reveals astral space to other characters by making an Astral Sight Test against a base Difficulty Number of 6, modified by the level of astral corruption (Player's Guide, p. 111). If successful, a small portion of astral space 4 yards (2 hexes) in diameter within the adept's Astral Sight range becomes visible to those watching."
+  },
+  {
+    "name": "Bounce",
+    "talent_name": "Avoid Blow",
+    "rank": 9,
+    "strain": 2,
+    "description": "The adept reduces the impact of a fall by landing on the sturdiest parts of his body and rolling as he hits the ground. The adept subtracts his Avoid Blow Rank from the Falling Damage Test, reducing any damage he takes from the fall."
+  },
+  {
+    "name": "Graceful Dodge",
+    "talent_name": "Avoid Blow",
+    "rank": 7,
+    "strain": 2,
+    "description": "When the adept attempts to use his Avoid Blow talent against an opponent's attack, he may choose to use his Graceful Dodge in place of the standard talent.  The adept takes 2 strain to use this knack instead of the typical 1 strain for Avoid Blow.  If the adept succeeds in his avoidance, he may have the opportunity to gain a superior position on his opponent.  For each success level beyond Average, the adept gains a +1 to his next attack and damage test against the opponent that attacked him. This knack can only be used in melee combat.  It will not work if the character is attacking with or has been attacked by a ranged weapon or spell."
+  },
+  {
+    "name": "Into Harm's Way",
+    "talent_name": "Avoid Blow",
+    "rank": 7,
+    "strain": 2,
+    "description": "Into Harm's Way allows the Adept the opportunity to intercept a blow intended for an allied target.  To use this knack, the Adept must be adjacent (1 hex, or approximately 2 yards) to the ally, facing toward the attacker (attacker is not within the Adepts \"blindside\"), and achieved a higher initiative than the attacker.  If the opponent succeeds in attacking the ally, the Adept may make an Avoid Blow roll against the attack result.  On a Good success, the Adept has imposed himself between the target and the attack, suffering the damage in place of their ally.  The Adepts current physical defense is used to determine if the attack they intercepted defeats armor.  No matter what the Adepts physical defense is, they are always struck by the attack they intercepted. As usual, a Pathetic Result knocks the Adept prone and fails to intercept the attack. This knack may used a number of times in a combat round up to the Adepts rank in Avoid Blow, although each subsequent use of this knack increases the difficulty level by one to a maximum of Extraordinary.  Each use of this knack counts toward the maximum number of times an Adept may use Avoid Blow in a combat round."
+  },
+  {
+    "name": "Quick Foot",
+    "talent_name": "Avoid Blow",
+    "rank": 10,
+    "strain": 2,
+    "description": "To use this knack, the Adept must first declare its use prior to rolling his Avoid Blow against a successful attack.  If the Adept manages to avoid the strike, the result of his Avoid Blow test becomes his physical defense for the remainder of the combat turn, even if the result is lower than his original physical defense.  This knack may be used only once per combat turn."
+  },
+  {
+    "name": "Backbiter",
+    "talent_name": "Bank Shot",
+    "rank": 7,
+    "strain": 3,
+    "description": "The adept ricochets a missile or thrown weapon so that it hits a shielded opponent from behind by making a Bank Shot Test in place of his ranged Attack Test. On a Good Result, the target is struck in the back and loses the protection of his shield, including the Deflection Bonus."
+  },
+  {
+    "name": "Wound Share",
+    "talent_name": "Blood Share",
+    "rank": 8,
+    "strain": 4,
+    "description": "The adept makes a Blood Share Test against the target's Spell Defense. If successful, one Wound may be transferred between the adept and the target, instead of transferring Damage Points. The Wound transferred to the new character or creature appears in a similar location to the original Wound, and this does not require a Knockdown Test."
+  },
+  {
+    "name": "Blood Compass",
+    "talent_name": "Bone Compass",
+    "rank": 9,
+    "strain": 3,
+    "description": "The adept uses his bone compass on a target he has not previously examined astrally. He requires an object linked to the target, such as a drop of blood, a piece of clothing, or a Pattern Item, which he touches to the bone before making a Bone Compass Test. If successful, the Bone Compass talent works as normal."
+  },
+  {
+    "name": "Nether Sextant",
+    "talent_name": "Bone Compass",
+    "rank": 12,
+    "strain": 3,
+    "description": "Instead of detecting a True Pattern, the adept detects gateways to a specific Netherworld he has previously visited, provided a gateway to the Netherworld is within Bone Compass Rank Miles."
+  },
+  {
+    "name": "Photographic Memory",
+    "talent_name": "Book Memory",
+    "rank": 10,
+    "strain": 3,
+    "description": "The adept remembers a conversation for later recall by making a Book Memory Test against the highest Spell Defense among all the speakers conversing. If successful, the adept successfully memorizes the conversation. A memorized conversation can last up to Book Memory Rank hours and counts as one book for the purpose of the Book Memory talent."
+  },
+  {
+    "name": "Share Sense",
+    "talent_name": "Borrow Sense",
+    "rank": 7,
+    "strain": 2,
+    "description": "The adept \"swaps\" senses with another animal by making aBorrow Sense Test. If successful, he receives one of the target animal's senses-sight, smell, hearing, touch, or taste-in addition to his own, and the animal receives the adept's corresponding sense in return."
+  },
+  {
+    "name": "Claw Tool",
+    "talent_name": "Claw Shape",
+    "rank": 4,
+    "strain": 2,
+    "description": "The adept uses his claws to cut ropes, carve wood, climb, and perform other similar non-combat tasks. He gains a +2 bonus to Strength-only and Climbing Tests. The adept can revert his hands back to normal at any time."
+  },
+  {
+    "name": "Savage Claw",
+    "talent_name": "Claw Shape",
+    "rank": 7,
+    "strain": 2,
+    "description": "Savage Claw allows the Adept to use his claw shape to inflict grievous, bleeding wounds to his opponent.  Using this knack with his Claw Shape talent, the Adept takes 2 strain points to form a barbed weapon from his hands.  If he succeeds in inflicting a wound on his target, the target will bleed for a number of rounds equal to the Adepts Claw Shape rank.  Besides the limited duration, the bleeding wound functions as described  under the optional rule."
+  },
+  {
+    "name": "By the Fingernails",
+    "talent_name": "Climbing",
+    "rank": 7,
+    "strain": 4,
+    "description": "Should he fail a Climbing Test, the adept grabs for a handhold at the last second by making a second Climbing Test against the same Climbing Difficulty. If failed, he cannot attempt to use the knack again to save himself."
+  },
+  {
+    "name": "Swinging Move",
+    "talent_name": "Climbing",
+    "rank": 5,
+    "strain": "0+",
+    "description": "The adept makes Climbing Tests to travel distances by swinging from ropes or vines, such as an airship's rigging or a chandelier. When covering a distance up to his Movement Rate, the adept makes a Climbing (8) Test; when swinging up to double his Movement Rate, he makes a Climbing (12) Test and takes 1 Strain. The attempt counts as his move for the round. A successful Climbing Test means the adept swings and lands where he wants, while failure means the adept botches his landing and is Knocked Down. A Pathetic Result means the adept loses his grip mid-air and takes Falling Damage."
+  },
+  {
+    "name": "Halt Disease",
+    "talent_name": "Cold Purify",
+    "rank": 6,
+    "strain": 2,
+    "description": "The adept stops the progress of disease by making a Cold Purify Test against the disease's Spell Defense. On a Good Result, the effect of the disease is halted. The victim does not heal any damage already inflicted; the knack merely prevents the disease ravaging him further."
+  },
+  {
+    "name": "Stash",
+    "talent_name": "Conceal Object",
+    "rank": 7,
+    "strain": 2,
+    "description": "The adept uses the Conceal Object talent to hide an object within a given environment, or alter the appearance of an object within a given environment.  The size of the object cannot exceed the adept's Conceal Object rank in cubic feet.  The target object remains concealed for a number of days equal to the adept's rank, though the adept may extend this period to years by taking 1 point of blood damage for each year of the concealments duration."
+  },
+  {
+    "name": "Creature Remains",
+    "talent_name": "Creature Analysis",
+    "rank": 7,
+    "strain": 2,
+    "description": "The adept identifies a creature from trace evidence, such as its remains, lair, or the remnants of victims, by studying the evidence, then making a Creature Analysis Test against the creature's Spell Defense. On a Good Result, he identifies the type of creature and may ask the gamemaster a question of a type normally granted by a successful use of the Creature Analysis talent."
+  },
+  {
+    "name": "Horror Analysis",
+    "talent_name": "Creature Analysis",
+    "rank": 9,
+    "strain": 1,
+    "description": "This knack extends use of the Creature Analysis talent to include Horrors, Horror constructs, and the remains of Horrors and their victims. Though Horrors are rarely exactly alike-and often capable of elaborate deception-legendary heroes have occasionally found weaknesses to exploit in the physiology or habits of Horrors they have stalked and watched. The adept must achieve a Good Result on his Creature Analysis Test against the Spell Defense of the Horror or construct being analyzed."
+  },
+  {
+    "name": "Identify Beast",
+    "talent_name": "Creature Analysis",
+    "rank": 4,
+    "strain": 0,
+    "description": "Similar to the Creature Remains knack, identify beast permits the Adept to glean basic knowledge about a creature based on its tracks, markings, lair, or other markings.  However, the information is less specific and limited to the name of the creature whether it is native to the habitat."
+  },
+  {
+    "name": "Deathbed",
+    "talent_name": "Dead Fall",
+    "rank": 7,
+    "strain": 1,
+    "description": "Illusion. The adept feigns the effects of a horrible disease or fatal injury, appearing as if he were dying, with a Good Result on his Dead Fall Test. He remains conscious and able to speak while maintaining the illusion, but at any time during the talent's duration may feign his own death, after which the effects of the Dead Fall talent work as normal."
+  },
+  {
+    "name": "Liar",
+    "talent_name": "Detect Falsehood",
+    "rank": 8,
+    "strain": 1,
+    "description": "The adept spends a Karma Point to construct an elaborate lie engineered to work well against a specific character. He makes a Detect Falsehood Test, but instead of analyzing if the target lies, he discovers weaknesses in the target's capability of Insight. He gains a +1 bonus per Result Level achieved, starting with a Good Result, to his Interaction Test against the target, as long as they relate to the lie the adept tells."
+  },
+  {
+    "name": "Thorough Inspection",
+    "talent_name": "Detect Weapon",
+    "rank": 5,
+    "strain": 1,
+    "description": "Instead of improving the target negotiator's Attitude towards his opponent, the adept worsens it upon a successful Diplomacy Test."
+  },
+  {
+    "name": "Lodestone",
+    "talent_name": "Direction Arrow",
+    "rank": 5,
+    "strain": 1,
+    "description": "This knack allows the Adept to use his Direction Arrow talent to determine where North lies with respect to his current position.  The Adept places an arrow upon the ground and gives it a quick spin.  He makes a Direction Arrow (6) test.  If he achieves a success the arrow will stop its spin pointing in the North direction.  If the Adept achieves a good success, a residual sense of North remains in the arrow for a number of minutes equal to his Direction Arrow rank.  During this time, the Adept need not make any further tests to determine the location of North.  An excellent success increases this duration to hours, and an extraordinary success increases the duration to days."
+  },
+  {
+    "name": "Angelic Appearance",
+    "talent_name": "Disguise Self",
+    "rank": 7,
+    "strain": 1,
+    "description": "The adept uses the Illusionism magic inherent in the Disguise Self talent to temporarily boost his charisma. Each time he interacts with another character, the adept may use Angelic Appearance to make a Disguise Self Test against the target's Spell Defense. On his next Interaction Test against the target, the adept gains a +1 bonus for each Result Level achieved, starting with a Good Result."
+  },
+  {
+    "name": "Disguise Other",
+    "talent_name": "Disguise Self",
+    "rank": 10,
+    "strain": 2,
+    "description": "The adept uses the Illusionism magic inherent in the Disguise Self talent to apply a disguise to another character.  The effect of the disguise functions in the same manner as the standard Disguise Self talent."
+  },
+  {
+    "name": "Create Armored Matrix Object [Elementalism]",
+    "talent_name": "Elementalism",
+    "rank": 12,
+    "strain": 2,
+    "description": "The adept creates an armored spell matrix object. Create Armored Matrix Object Tests are performed using the adept's Thread Weaving Step (see Enchanting, p. 153, for more information)."
+  },
+  {
+    "name": "Create Enhanced Matrix Object [Elementalism]",
+    "talent_name": "Elementalism",
+    "rank": 8,
+    "strain": 2,
+    "description": "The adept creates an enhanced spell matrix object. Create Enhanced Matrix Object Tests are performed using the adept's Thread Weaving Step (see Enchanting, p. 123, for more information)."
+  },
+  {
+    "name": "Create Orichalcum",
+    "talent_name": "Elementalism",
+    "rank": 11,
+    "strain": 2,
+    "description": "The adept performs a ritual to create orichalcum. Create Orichalcum Tests are performed using the adept's Elementalism Step (see Creating Orichalcum, p. 161, for more information)."
+  },
+  {
+    "name": "Create Shared Matrix Object [Elementalism]",
+    "talent_name": "Elementalism",
+    "rank": 15,
+    "strain": 2,
+    "description": "The adept creates a shared spell matrix object. Create Shared Matrix Object Tests are performed using the adept's Thread Weaving Step (see Enchanting, p. 123, for more information)."
+  },
+  {
+    "name": "Create Spell [Elementalism]",
+    "talent_name": "Elementalism",
+    "rank": 8,
+    "strain": 2,
+    "description": "Using this knack, an Adept may craft a spell subject to the rules presented in \"Magic:  A Manual of Mystical Secrets\"."
+  },
+  {
+    "name": "Create Spell Matrix Object [Elementalism]",
+    "talent_name": "Elementalism",
+    "rank": 5,
+    "strain": 2,
+    "description": "The adept creates a spell matrix object. Create Spell Matrix Object Tests are performed using the adept's Thread Weaving Step (see Enchanting, p. 123, for more information)."
+  },
+  {
+    "name": "Create Thread Item [Elementalism]",
+    "talent_name": "Elementalism",
+    "rank": 7,
+    "strain": 2,
+    "description": "The adept creates a thread item. Create Thread Item Tests are performed using the adept's Thread Weaving Step (see Enchanting, p. 123, for more information)."
+  },
+  {
+    "name": "Create Thread Item [Nethermancy]",
+    "talent_name": "Nethermancy",
+    "rank": 7,
+    "strain": 2,
+    "description": "The adept creates a thread item. Create Thread Item Tests are performed using the adept's Thread Weaving Step (see Enchanting, p. 123, for more information)."
+  },
+  {
+    "name": "Create Thread Item [Wizardry]",
+    "talent_name": "Wizardry",
+    "rank": 7,
+    "strain": 2,
+    "description": "The adept creates a thread item. Create Thread Item Tests are performed using the adept's Thread Weaving Step (see Enchanting, p. 123, for more information)."
+  },
+  {
+    "name": "Weave Element",
+    "talent_name": "Elementalism",
+    "rank": 5,
+    "strain": 2,
+    "description": "The adept infuses an item with the essence of one or more of the five True Elements (earth, air, fire, water, and wood). Weave Element Tests are performed using the adept's Thread Weaving Step. See Enchanting, p. 157, for more information."
+  },
+  {
+    "name": "Telling the Tale",
+    "talent_name": "Emotion Song",
+    "rank": 5,
+    "strain": 0,
+    "description": "The adept expands his repertoire for use with the Emotion Song talent. Instead of singing, he can perform any artistic activity, such as storytelling, reciting of poetry, or even performing a puppet show."
+  },
+  {
+    "name": "Disassociate",
+    "talent_name": "Empathic Sense",
+    "rank": 9,
+    "strain": 2,
+    "description": "The adept dampens a character's intense negative emotions by making an Empathic Sense Test against the target's Spell Defense. On a Good Result, the target's Attitude toward the adept improves by one level. The target still feels pain or anger or fear, but not as strongly as before. The gamemaster determines the effect of the target's new Attitude."
+  },
+  {
+    "name": "Lasting Deceit",
+    "talent_name": "False Sight",
+    "rank": 12,
+    "strain": 6,
+    "description": "The adept prolongs the Duration of an Illusion spell through use of the False Sight talent. The adept must spend a Karma Point when using this knack. Lasting Deceit must be used before the spell is cast. If the casting is successful, the spell's Duration is extended by the adept's False Sight Rank in the same time units the spell uses. For example, a spell lasting Rank minutes lasts Rank + 14 minutes for an adept with a False Sight Rank of 14."
+  },
+  {
+    "name": "Cosmetics",
+    "talent_name": "Fire Heal",
+    "rank": 9,
+    "strain": 2,
+    "description": "The adept alters the effects of his Fire Heal talent to restore his physical appearance instead of healing damage. Instead of gaining one Recovery Test, the adept may remove one scar, wart, or other skin deformity. Several deformities may be removed in one go if several Recovery Tests are gained from Fire Heal. Cosmetics may be used with the Heal Others talent knack, p. 127; the Strain costs are combined."
+  },
+  {
+    "name": "Heal Others",
+    "talent_name": "Fire Heal",
+    "rank": 7,
+    "strain": "1+",
+    "description": "The adept guides another character through the Fire Heal ritual. The procedure for gaining bonus Recovery Tests is as described for the Fire Heal talent (Player's Guide, p. 69), but the adept must achieve a Good Result on his Fire Heal Test for the ritual to be successful. The adept does not himself gain any Recovery Tests, but as he must take part in the ritual he is still exposed to the risks. If failed, both characters take Damage and Wounds. Using this knack causes the adept Strain equal to the number of bonus Recovery Tests the other character is attempting to gain."
+  },
+  {
+    "name": "Wound Heal",
+    "talent_name": "Fire Heal",
+    "rank": 6,
+    "strain": 2,
+    "description": "The adept heals a Wound instead of instead of gaining Recovery Tests with his Fire Heal ritual. Only one Wound may be healed per use, and the ritual takes one hour. The adept makes a Fire Heal Test against a Step 8 Fire Intensity Test. If successful, he immediately heals one Wound. If failed, the adept suffers the normal consequences of a failed Fire Heal Test (Player's Guide, p. 69). An adept who also knows the Heal Others knack can use the Wound Heal knack to heal one Wound suffered by another character instead of giving him a Recovery Test. If failed, both characters are affected, as noted in the Heal Others knack description."
+  },
+  {
+    "name": "Flaming Wounds",
+    "talent_name": "Fireblood",
+    "rank": 8,
+    "strain": 3,
+    "description": "The adept seals wounds shut by making a Fireblood Test against his Wound Threshold. If successful, blood erupts like fire from one Wound that he has received during the current battle, sealing it shut and healing it, but recovering no Damage Points."
+  },
+  {
+    "name": "Elemental Arrow",
+    "talent_name": "Flame Arrow",
+    "rank": 7,
+    "strain": 3,
+    "description": "Using this knack, the adept transforms the Flame Arrow projectile from fire to another elemental type.  The projectile still retains the same damaging properties as the traditional Flame Arrow."
+  },
+  {
+    "name": "Explosive Flame Arrow",
+    "talent_name": "Flame Arrow",
+    "rank": 8,
+    "strain": 4,
+    "description": "The adept creates an explosive ball of flame. If his missile Attack Test is successful, the flame arrow bursts on impact with a Flame Arrow Rank radius in yards (half this in hexes). The original target is affected as normal, but the Attack Test result is also treated as an Attack Test against all other characters within the radius of the ball of flame. The Attack Test requires a Result Level one higher than normal against these secondary targets (usually a Good Result to hit, an Extraordinary Result to be an Armor-Defeating Hit); if successful, the secondary targets also take damage equal to the result of the Flame Arrow Test."
+  },
+  {
+    "name": "Fire Arrow",
+    "talent_name": "Flame Arrow",
+    "rank": 5,
+    "strain": 1,
+    "description": "The adept's flame arrow bypasses physical protection. The adept makes a missile Attack Test as normal. On an Average Result, the target's Physical Armor protects him as normal. On a Good Result, the target's Mystic Armor provides protection instead. Armor-Defeating Hits bypass the target's armor as normal."
+  },
+  {
+    "name": "Forge Living Armor",
+    "talent_name": "Forge Armor",
+    "rank": 5,
+    "strain": 4,
+    "description": "Using this knack, the adept gains the ability to forge living armor which normally cannot be forged (such as Fernweave).  This knack functions the same as the Forge Armor talent, except the adept must achieve a test result one level higher than normal."
+  },
+  {
+    "name": "Smooth Armor",
+    "talent_name": "Forge Armor",
+    "rank": 9,
+    "strain": 4,
+    "description": "armor twice, (half its original penalty, rounded up)."
+  },
+  {
+    "name": "Forge Arrow",
+    "talent_name": "Forge Weapon",
+    "rank": 5,
+    "strain": 2,
+    "description": "The adept enhances the damage inf licted by arrows, bolts, and other projectiles. He may forge a number of individual missiles of the same type equal to his Forge Weapon Rank. To determine the Difficulty Number, unforged missiles are considered to have a Size equal to the weapon from which they are fired and a Damage Step of 1. The adept makes a Forge Weapon Test as normal. If successful, the missile adds a +1 bonus to the weapon's Damage Step when fired. All standard restrictions and limitations for forging weapons also apply to forging missiles."
+  },
+  {
+    "name": "Flying Kick",
+    "talent_name": "Great Leap",
+    "rank": 7,
+    "strain": 2,
+    "description": "The adept makes a flying kick, using his Great Leap Test as an unarmed Attack Test against an opponent more than 2 yards (1 hex) away. On a Good Result, he strikes his opponent, making a Damage Test using his Strength Step. The Great Leap Test determines the maximum distance he leaps, as normal, and serves as the adept's Physical Defense for the remainder of the round, even if lower than his normal Physical Defense. If the adept's Great Leap Test is not high enough to cover the distance to his opponent, he misses."
+  },
+  {
+    "name": "Covet Item",
+    "talent_name": "Haggle",
+    "rank": 7,
+    "strain": 4,
+    "description": "The adept convinces another character to strongly desire an item. This knack is used with the first Haggle Test the adept makes against the target's Social Defense. On a Good Result, the target feels a strong desire to purchase the item. Each successful Haggle Test that the adept makes thereafter adds +10 percent to the price the target is willing to pay, instead of +5 percent."
+  },
+  {
+    "name": "Faulty Goods",
+    "talent_name": "Haggle",
+    "rank": 9,
+    "strain": 2,
+    "description": "The adept gains the upper hand when haggling by convincing another character that that character's goods are of inferior quality. This knack is used with the first Haggle Test the adept makes against the target's Social Defense. On a Good Result, he points out illusory flaws in the goods, which make the target offer to sell the item for half its original price. Both adept and target make Haggle Tests as normal thereafter; the price decrease of 5% is determined as 5% of the item's new Cost, not the original Cost."
+  },
+  {
+    "name": "Balm",
+    "talent_name": "Heal Animal Companion",
+    "rank": 2,
+    "strain": 2,
+    "description": "The adept uses their Heal Animal Companion talent to cure a poison or disease afflicting their animal companion.  The adept makes a Heal Animal Companion test against the spell defense of the disease or poison.  If successful, the adept sacrifices one of their recovery tests to remove the targeted poison or disease afflicting the animal."
+  },
+  {
+    "name": "Knit Flesh",
+    "talent_name": "Heal Animal Companion",
+    "rank": 8,
+    "strain": 2,
+    "description": "The adept uses their Heal Animal Companion talent to knit the wounds of their injured companions.  The adept makes a Heal Animal Companion test against the wound threshold of the animal.  If successful, the adept sacrifices one of their own recovery tests to remove a wound from the targeted animal."
+  },
+  {
+    "name": "Hold Multiple Threads",
+    "talent_name": "Hold Thread",
+    "rank": 10,
+    "strain": "2+",
+    "description": "The magician can hold multiple spell threads with his Hold Thread talent. He weaves the threads and makes a Hold Thread Test as normal, but is not limited to holding only one thread. For every thread he attempts to hold, including the first, he takes 2 Strain. If the Hold Thread Test is successful, the threads are held as normal. p. 232), but he must be able to lift the object. "
+  },
+  {
+    "name": "Create Armored Matrix Object [Illusionism]",
+    "talent_name": "Illusionism",
+    "rank": 12,
+    "strain": 2,
+    "description": "The adept creates an armored spell matrix object. Create Armored Matrix Object Tests are performed using the adept's Thread Weaving Step (see Enchanting, p. 153, for more information)."
+  },
+  {
+    "name": "Create Enhanced Matrix Object [Illusionism]",
+    "talent_name": "Illusionism",
+    "rank": 8,
+    "strain": 2,
+    "description": "The adept creates an enhanced spell matrix object. Create Enhanced Matrix Object Tests are performed using the adept's Thread Weaving Step (see Enchanting, p. 123, for more information)."
+  },
+  {
+    "name": "Create Shared Matrix Object [Illusionism]",
+    "talent_name": "Illusionism",
+    "rank": 15,
+    "strain": 2,
+    "description": "The adept creates a shared spell matrix object. Create Shared Matrix Object Tests are performed using the adept's Thread Weaving Step (see Enchanting, p. 123, for more information)."
+  },
+  {
+    "name": "Create Spell [Illusionism]",
+    "talent_name": "Illusionism",
+    "rank": 8,
+    "strain": 2,
+    "description": "Using this knack, an Adept may craft a spell subject to the rules presented in \"Magic:  A Manual of Mystical Secrets\"."
+  },
+  {
+    "name": "Create Spell Matrix Object [Illusionism]",
+    "talent_name": "Illusionism",
+    "rank": 5,
+    "strain": 2,
+    "description": "The adept creates a spell matrix object. Create Spell Matrix Object Tests are performed using the adept's Thread Weaving Step (see Enchanting, p. 123, for more information)."
+  },
+  {
+    "name": "Create Thread Item [Illusionism]",
+    "talent_name": "Illusionism",
+    "rank": 7,
+    "strain": 2,
+    "description": "The adept creates a thread item. Create Thread Item Tests are performed using the adept's Thread Weaving Step (see Enchanting, p. 123, for more information)."
+  },
+  {
+    "name": "Gaping Wounds",
+    "talent_name": "Illusionism",
+    "rank": 9,
+    "strain": 2,
+    "description": "Illusion. The magician creates the illusion that a Wound caused by a spell that inflicts damage is far worse than it truly is. He makes a Threadweaving Test as normal. If the spell's Effect Test inflicts a Wound on the target, it appears more severe than it should, allowing the magician to make an immediate Intimidation Test against the target's Social Defense (Gamemaster's Guide, p. 93)."
+  },
+  {
+    "name": "Arrow Stop",
+    "talent_name": "Impressive Shot",
+    "rank": 7,
+    "strain": 2,
+    "description": "The adept stops a projectile or weapon he has used for a ranged attack just as it hits his opponent, making an Impressive Shot Test against the target's Physical Defense, as normal. On an Average or Good Result, the attack misses. On an Excellent Result, the arrow stops just as it nicks the target, who takes 1 Damage Point (no armor provides protection), and allows the adept to immediately make an Interaction Test (Gamemaster's Guide, p. 93) against the target's Social Defense."
+  },
+  {
+    "name": "Defuse Mob",
+    "talent_name": "Incite Mob",
+    "rank": 8,
+    "strain": 2,
+    "description": "The adept calms and disperses a mob by making an Incite Mob Test against the highest Social Defense among the mob's members. The mob's size determines the Result Level required (see p. 108). If successful, the mob returns to a calm state."
+  },
+  {
+    "name": "Calm Herd",
+    "talent_name": "Incite Stampede",
+    "rank": 8,
+    "strain": 2,
+    "description": "The adept calms a stampeding herd by making an Incite Stampede Test against the highest Social Defense among the stampeding animals. The herd's size determines the Result Level required (see p. 108). If successful, the animals calm down and the stampede stops."
+  },
+  {
+    "name": "Deathsight",
+    "talent_name": "Lifesight",
+    "rank": 9,
+    "strain": 3,
+    "description": "The adept sees the strength and composition of undead Namegivers and Horror constructs with a Good Result on his Lifesight Test."
+  },
+  {
+    "name": "Jam",
+    "talent_name": "Lock Picking",
+    "rank": 5,
+    "strain": 3,
+    "description": "Jam allows an Adept to render a mechanical or magical lock inoperable for a number of rounds equal to his rank in lockpicking.  The Adept makes a Lockpicking roll against the locks difficulty (for mechanical locks) or spell defense (for magical locks).  If the Adept achieves a Good result, the lock is jammed and cannot be opened by any manner (including further Lockpicking or magical spells) for a number of rounds equal to the Adepts lockpicking rank. The door can still be forced open, however the strength test to required to force the door is one result level higher than typical."
+  },
+  {
+    "name": "Extend Range",
+    "talent_name": "Long Shot",
+    "rank": 10,
+    "strain": 3,
+    "description": "Instead of extending his weapon's maximum distance beyond Long Range, the adept extends the effective Short Range distance of his weapon to the maximum Long Range,  suffering no Distance penalty to his Attack Test. Extend Range simply extends the Short Range into Long Range, it does not extend the Long Range. For example, a sling has a normal Short Range of 2-20 (1-10), but if Extend Range is used, it has an effective Short Range of 2-40 (1-20) and no Long Range."
+  },
+  {
+    "name": "Setup",
+    "talent_name": "Maneuver",
+    "rank": 8,
+    "strain": 1,
+    "description": "The adept maneuvers into a position to aid an ally, whom he must choose when he makes his Maneuver Test. Both adept and ally must avoid all attacks made against them by the target opponent until the ally's turn in the following round. If they succeed, the ally gains the normal bonuses Maneuver conveys, instead of the adept."
+  },
+  {
+    "name": "Swagger",
+    "talent_name": "Maneuver",
+    "rank": 5,
+    "strain": 1,
+    "description": "Swagger allows the Adept to perform a series of seemingly effortless parries and dodges while using his Maneuver talent.  If the Adept avoids all attacks from that particular opponent, he has shown himself to be the superior swordsman.  His opponent is imtimidated and unnerved, allowing the Adept to add a bonus equal to his Maneuver rank to his first test against his opponents social defense the next round.  This bonus is in addition to the attack bonuses granted by the base Maneuver talent (although it is rare when the Adept may use both)."
+  },
+  {
+    "name": "Armor Beater",
+    "talent_name": "Melee Weapons",
+    "rank": 10,
+    "strain": 3,
+    "description": "The adept bypasses an opponent's armor more easily, ignoring any Deflection Bonus to determine if an Armor-Defeating Hit is achieved."
+  },
+  {
+    "name": "Deflect Blow",
+    "talent_name": "Melee Weapons",
+    "rank": 8,
+    "strain": 1,
+    "description": "The adept achieves greater skill at defensive fighting. When using the Defensive Stance combat option, he can freely determine the bonus to Physical Defense, up to a bonus equal to his Melee Weapons Rank. The penalty to Action Tests is equal to the bonus to Physical Defense. For example, a character with a Melee Weapons Rank of 9 can receive a bonus ranging from +1 to +9, and receives a penalty from -1 to -9 as appropriate. Deflect Blow requires one use of the Melee Weapons talent in the round this knack is used, otherwise the adept suffers the penalty in the following round from overextending himself, without receiving the Defense bonus. The effects of this talent end immediately if the adept is disarmed."
+  },
+  {
+    "name": "Improvised Weapons",
+    "talent_name": "Melee Weapons",
+    "rank": 7,
+    "strain": 1,
+    "description": "The adept wields an object not intended as a weapon in melee combat. He does not incur a penalty to his Attack Test when hitting an opponent with the improvised weapon (Player's Guide, p. 230). The adept makes a Melee Weapons Test, as normal. If successful, the gamemaster determines the Damage Step of the improvised weapon, based on the item's size and materials, to a maximum of Damage Step 7. Examples of suitable items include pens, pieces of wood, airship guide cables, uprooted marker stones, loaves of stale bread, suits of armor, or even other Namegivers. The adept must be able to carry the item to wield it as a melee weapon."
+  },
+  {
+    "name": "Mind Trick",
+    "talent_name": "Mind Wave",
+    "rank": 9,
+    "strain": 1,
+    "description": "The adept spends a Karma Point to make a character follow a simple one- or two-word order and makes a Mind Wave Test. On a Good Result, the target follows the command for the duration of the talent. The target remains unaware that someone else is controlling his actions until the talent ends. Each round, the target may make a Willpower Test against the adept's Mind Wave Step to end the effect. The adept must stay within Mind Wave Rank × 2 yards (Rank hexes), or the effect ends."
+  },
+  {
+    "name": "Placed Shot",
+    "talent_name": "Missile Weapons",
+    "rank": 7,
+    "strain": 2,
+    "description": "The adept may declare and use the Aggressive Attack combat option with a missile weapon. His Movement Rate is reduced to 2 yards (1 hex) that round, but the adept gains the benefits (and penalties) of a normal Aggressive Attack for each Attack Test with a missile weapon he makes, the first of which must be made with the Missile Weapons talent. The knack's Strain cost includes the Strain cost of the Aggressive Attack."
+  },
+  {
+    "name": "Weapon Smash",
+    "talent_name": "Momentum Attack",
+    "rank": 9,
+    "strain": 2,
+    "description": "When using Weapon Smash on a Momentum Attack Test and achieving an Armor-Defeating Hit, the adept smashes his weapon, shield, or fist into his opponent, causing an intimidating sound. The adept may immediately make a Battle Shout Test against the opponent, even if he has already made a Battle Shout Test that round. Targets are only affected by one use of Battle Shout, as normal, however."
+  },
+  {
+    "name": "Steel Shodding",
+    "talent_name": "Mount Attack",
+    "rank": 10,
+    "strain": 2,
+    "description": "When using the Mount Attack talent, the adept may take additional strain to sharpen edges of the mounts natural weapons (claws, hooves, teeth, etc.), increasing the damage step of the mount's attack by a value equal to the adepts Mount Attack rank."
+  },
+  {
+    "name": "Mystic Strike",
+    "talent_name": "Mystic Aim",
+    "rank": 7,
+    "strain": 2,
+    "description": "Through this knack Adept uses his Mystic Aim talent to shift some or all of the talent bonus from his attack to his damage test.  The Adept must declare how he wishes to partition his bonus prior to making any attack or damage tests."
+  },
+  {
+    "name": "Create Armored Matrix Object [Nethermancy]",
+    "talent_name": "Nethermancy",
+    "rank": 12,
+    "strain": 2,
+    "description": "The adept creates an armored spell matrix object. Create Armored Matrix Object Tests are performed using the adept's Thread Weaving Step (see Enchanting, p. 153, for more information)."
+  },
+  {
+    "name": "Create Enhanced Matrix Object [Nethermancy]",
+    "talent_name": "Nethermancy",
+    "rank": 8,
+    "strain": 2,
+    "description": "The adept creates an enhanced spell matrix object. Create Enhanced Matrix Object Tests are performed using the adept's Thread Weaving Step (see Enchanting, p. 123, for more information)."
+  },
+  {
+    "name": "Create Shared Matrix Object [Nethermancy]",
+    "talent_name": "Nethermancy",
+    "rank": 15,
+    "strain": 2,
+    "description": "The adept creates a shared spell matrix object. Create Shared Matrix Object Tests are performed using the adept's Thread Weaving Step (see Enchanting, p. 123, for more information)."
+  },
+  {
+    "name": "Create Spell [Nethermancy]",
+    "talent_name": "Nethermancy",
+    "rank": 8,
+    "strain": 2,
+    "description": "Using this knack, an Adept may craft a spell subject to the rules presented in \"Magic:  A Manual of Mystical Secrets\"."
+  },
+  {
+    "name": "Create Spell Matrix Object [Nethermancy]",
+    "talent_name": "Nethermancy",
+    "rank": 5,
+    "strain": 2,
+    "description": "The adept creates a spell matrix object. Create Spell Matrix Object Tests are performed using the adept's Thread Weaving Step (see Enchanting, p. 123, for more information)."
+  },
+  {
+    "name": "Astral Spy",
+    "talent_name": "Orbiting Spy",
+    "rank": 9,
+    "strain": "1+",
+    "description": "The adept hides an orbiting spy in astral space, making it invisible to anyone without the ability to astrally view or detect objects. Using this knack causes the adept 1 Strain to conjure the spy, +1 Strain for each Orbiting Spy Test made during the talent's duration."
+  },
+  {
+    "name": "Orbiting Watcher",
+    "talent_name": "Orbiting Spy",
+    "rank": 8,
+    "strain": 1,
+    "description": "The adept places a spy spirit to watch a place, item, or being. He makes an Orbiting Spy Test to summon the spirit, as normal, and then makes a second Orbiting Spy Test against the Spell Defense of the place, item, or being to be watched. If successful, the spy spirit remains with the target for the duration of the talent. The spirit can communicate with the adept up to a distance of Orbiting Spy Rank miles."
+  },
+  {
+    "name": "Arrow Cutting",
+    "talent_name": "Parry",
+    "rank": 8,
+    "strain": 2,
+    "description": "The adept uses their melee weapon to parry attacks from missiles and thrown weapons by making a Parry Test against his opponents' ranged combat Attack Tests. If successful, the adept deflects the missiles or weapons away from him."
+  },
+  {
+    "name": "Guard",
+    "talent_name": "Parry",
+    "rank": 9,
+    "strain": 4,
+    "description": "Guard allows the Adept the opportunity to intercept a blow intended for an allied target.  To use this knack, the Adept must be adjacent (1 hex, or approximately 2 yards) to the ally, facing toward the attacker (attacker is not within the Adepts \"blindside\"), and achieved a higher intitiative than the attacker.  If the opponent succeeds in attacking the ally, the Adept may make a Parry roll against the attack result. On an Excellent success, the Adept has struck the blow away from its intended target.  As usual, a Pathetic Result disarms the Adept of the weapon or shield being used to Parry. This knack may used a number of times in a combat round up to the Adepts rank in Parry, although each subsequent use of this knack requires an Extraordinary result.   Each use of this knack counts toward the maximum number times an Adept may use Parry in a combat round."
+  },
+  {
+    "name": "Offguard",
+    "talent_name": "Picking Pockets",
+    "rank": 7,
+    "strain": 4,
+    "description": "The adept distracts a target while picking his pockets, making it harder for the theft to be noticed. After making his initial Picking Pockets Test, the adept makes another Picking Pockets Test, using the Offguard knack, against the target's Social Defense. If successful, the target automatically fails to notice the theft. The same does not apply to onlookers, however."
+  },
+  {
+    "name": "Rapier Wit",
+    "talent_name": "Resist Taunt",
+    "rank": 9,
+    "strain": 2,
+    "description": "Whenever the adept is the target of a successful Taunt, he may counter the taunt with a witty verbal riposte by making a Resist Taunt Test. On a Good Result, the character making the original taunt himself suffers the results of the taunt. This knack can only be attempted once per taunt."
+  },
+  {
+    "name": "Claw Riposte",
+    "talent_name": "Riposte",
+    "rank": 7,
+    "strain": 3,
+    "description": "The adept can Riposte unarmed attacks, including animal and creature attacks."
+  },
+  {
+    "name": "Deflect Projectile",
+    "talent_name": "Riposte",
+    "rank": 9,
+    "strain": 3,
+    "description": "The adept can Riposte ranged attacks, deflecting the projectile toward a nearby target of their choice.  The target of the deflected attack must be within rank hexes of the adept.  If the adept is using a melee weapon, they must achieve a good success on their Riposte test to re-direct the attack.  If using a shield, a projectile may be deflected toward another target with an average success."
+  },
+  {
+    "name": "Bless Ally",
+    "talent_name": "Second Chance",
+    "rank": 12,
+    "strain": 4,
+    "description": "If the adept has declared a Reserved Action and a target fails an Action Test, the adept may take his turn and use Second Chance to replace the target's Action Test. The Second Chance Test receives a penalty as normal, determined by the difference between the Second Chance Step and the Step Number used by the target."
+  },
+  {
+    "name": "Second Riposte",
+    "talent_name": "Second Weapon",
+    "rank": 9,
+    "strain": 4,
+    "description": "Having failed a Riposte Test, the adept may attempt a second riposte against the same melee attack if using an off-hand weapon, by making a Second Weapon Test, treating it as if it were a Riposte Test (using the rules of the Riposte talent)."
+  },
+  {
+    "name": "Shadow Hide",
+    "talent_name": "Silent Walk",
+    "rank": 4,
+    "strain": 1,
+    "description": "The adept not only moves quietly, but also conceals himself in the nearby shadows. His Silent Walk Test determines the Detection Difficulty for Perception Tests made to hear or see him move. During this time the adept may move no faster than half his Movement Rate without ending the talent. The adept requires some shadow to hide in-Partial darkness is ideal, but any shadow is enough for him to use. The complete absence of shadow, such as being in bright light or the effect of some light spells, prevents the knack from being used and ends the effect."
+  },
+  {
+    "name": "Traceless Stride",
+    "talent_name": "Silent Walk",
+    "rank": 8,
+    "strain": 1,
+    "description": "Traceless Stride allows the adept to not leave any footprints while using Silent Walk on any surface. Once used, the effect lasts for Silent Walk Rank rounds, but ends if the adept stops using the talent."
+  },
+  {
+    "name": "Anchored Spell",
+    "talent_name": "Spellcasting",
+    "rank": 8,
+    "strain": "see text",
+    "description": "The magician affixes a spell pattern to a wall, door, or other fixed object, creating a temporary ward. The magician must first cast the spell against the Spell Defense of the object to which the spell will be anchored. He must achieve an Excellent Result on his Spellcasting Test or the anchoring does not take (he takes Damage for the attempt, but may try again). The magician powers the anchored spell pattern by taking Permanent Damage equal to his Wound Threshold, receiving a Blood Wound in the process (Player’s Guide, p. 123). This damage cannot be healed until the spell ends. Once successfully cast, the anchored spell remains in place for a year and a day, or until it is triggered or dispelled. Any character passing within 3 yards of the anchoring object may trigger the spell. A magician can avoid triggering his own anchored spell by making a successful Spellcasting (6) Test. Once the spell has been triggered, it ends and cannot be triggered again. Anchored spells created with this knack function as ward traps (Gamemaster’s Guide, p. 112). Base the ward’s game mechanics on the magician’s abilities at the time of casting and the anchored spell, as follows:\n\nAnchored Spell Ward\nDetection:  Magician’s Spellcasting Step\nSpell Defense:  Magician’s Spell Defense\nDisarm:   Anchored spell’s Dispel Difficulty\nTrigger:  \nThe gamemaster makes a Spellcasting Test for the ward against the Spell Defense of any character or creature passing within 3 yards. The Step Number is equal to the Spellcasting Step of the magician who created the ward. If successful, the anchored spell is triggered. Magicians may anchor spells with a password or other type of signal that allows individuals to pass the ward without triggering it.\nInitiative:  Magician’s Spellcasting Step + 10\nEffect: \nThe anchored spell’s normal effect occurs. Use the Spellcasting Step of the magician who anchored the spell. The ward’s Effect Step equals the spell’s Effect Step, and uses the base Willpower Step of the magician.\n"
+  },
+  {
+    "name": "Name Spell",
+    "talent_name": "Spellcasting",
+    "rank": 8,
+    "strain": "1+",
+    "description": "The magician may cast Named spells. The Strain cost varies, based on the spell's Circle. See Named Spells, p. 132, and Creating Permanent Spell Patterns, p. 158, for more information."
+  },
+  {
+    "name": "Signature Spells",
+    "talent_name": "Spellcasting",
+    "rank": 7,
+    "strain": 1,
+    "description": "The magician alters (but does not eliminate) the cosmetic effects of his own spells, such as color, smell, and sound. For example, he could change the blast effect of his Bouncing Blaster spell from orange to green or superimpose the sound of booming laughter over the explosion. The knack cannot change a spell's statistics or its required components."
+  },
+  {
+    "name": "Spell Stacking",
+    "talent_name": "Spellcasting",
+    "rank": 10,
+    "strain": "2+",
+    "description": "The magician may \"stack\" multiple spells to cast them as a single spell against a character. He takes 2 Strain for each spell in the stack. If the spell patterns to be stacked are stored in spell matrices, the magician first weaves any required spell threads for all the spells, then makes a single Spellcasting Test against the highest Casting Difficulty among the spells, +1 for each additional spell. On a Good Result, the spells are cast successfully against the target with normal effect. The magician makes a separate Effect Test for each spell that requires it. If a magician wishes to stack spells that are not stored in matrices, he may cast them using raw magic (Player's Guide, p. 136), but with the following modification: the gamemaster makes one Warping Test and one Horror Mark Test, but combines the Circles of all of the spells in the stack to determine the \"stacked\" spell's effective Circle."
+  },
+  {
+    "name": "Air Mount",
+    "talent_name": "Spirit Mount",
+    "rank": 13,
+    "strain": 6,
+    "description": "The adept's spirit mount gains the ability to fly through the air at the same Movement Rate it uses when on land. The Air Mount requires a Good Result to be summoned."
+  },
+  {
+    "name": "Favored Mount",
+    "talent_name": "Spirit Mount",
+    "rank": 4,
+    "strain": 2,
+    "description": "The adept summons a more individual Spirit Mount that always looks like and has the proportions of his favored mount animal. The adept must have bonded to an animal of that type in the past to choose it as his Favored Mount, and the adept must be able to ride the living animal of that type. For example, if it is a small mount like a zoak, a troll could not ride it. The Favored Mount uses the statistics of one of the animals listed on the Mounts Table of the Player's Guide (p. 272) and detailed in the Creatures chapter of the Gamemaster's Guide. Summoning a mount with a Flying Movement Rate or a weight expressed in tons causes 4 Strain. Favored Mount can be combined with Water Mount or Air Mount, in which case the Strain costs are cumulative."
+  },
+  {
+    "name": "Water Mount",
+    "talent_name": "Spirit Mount",
+    "rank": 11,
+    "strain": 4,
+    "description": "The adept's spirit mount gains the ability to navigate across or through a body of water, traveling at the same Movement Rates it uses while on land. The Water Mount needs a Good Result to be summoned."
+  },
+  {
+    "name": "Translator",
+    "talent_name": "Spirit Talk",
+    "rank": 9,
+    "strain": 1,
+    "description": "The adept makes a Spirit Talk Test against the summoned spirit's Spell Defense. On a Good Result, the spirit is able to talk in any language known to the adept, allowing bystanders to listen to and interact with the conversation. If the spirit is unable to communicate verbally, this knack has no effect."
+  },
+  {
+    "name": "Hard Glare",
+    "talent_name": "Steely Stare",
+    "rank": 10,
+    "strain": 4,
+    "description": "The adept damages an inanimate object with his gaze by making a Steely Stare (13) Test. If successful, delicate objects made of glass, crystal, pottery, or thin wood break with a glance. An Average Result is enough to crack glass or crystal; shattering wooden or ceramic objects requires an Excellent Result. The gamemaster determines if an object is delicate enough to be affected by this knack."
+  },
+  {
+    "name": "Bind Spirit",
+    "talent_name": "Summon",
+    "rank": 6,
+    "strain": 2,
+    "description": "The adept places a summoned spirit in an item's pattern, gaining constant access to the spirit's powers. Bind Spirit Tests are performed using the adept's Summon Step (see Spirit Binding, p. 158, for more information)."
+  },
+  {
+    "name": "Mold Spirit",
+    "talent_name": "Summon",
+    "rank": 11,
+    "strain": 2,
+    "description": "The magician strengthens or weakens a spirit's connection to its native plane by spending 1 Karma Point and making a Summoning Test against the spirit's Spell Defense. If successful, the spirit incurs a +1 bonus or -1 penalty (at the magician's choice) per Result Level achieved to all of its Action Tests, until it returns to its native netherworld. A spirit can only be affected by one use of this talent knack at a time."
+  },
+  {
+    "name": "Backstab",
+    "talent_name": "Surprise Strike",
+    "rank": 5,
+    "strain": 0,
+    "description": "Using this knack, the Adept takes advantage of a distracted opponent to land harmful blows.  Before Backstab can be used, the Adept must succeed at a close combat attack test with a size 2 (or smaller) weapon and must be targeting a harried, blindsided, or otherwise distracted opponent.  The Adept then adds 3 steps to his damage test to reflect the attack against a vulnerable portion of his opponent."
+  },
+  {
+    "name": "Cripple",
+    "talent_name": "Surprise Strike",
+    "rank": 7,
+    "strain": 2,
+    "description": "Using this knack, the adept attempts to use his Surprise Strike talent on his target to either cripple or inflict a bleeding wound.  The adept suffers 2 points of strain using this knack.  If his attack successfully results in a wound to his target, he may either choose which limb he wishes to cripple or inflict a bleeding wound.  The crippling and bleeding wound effects function as described under the optional rules."
+  },
+  {
+    "name": "From the Shadows",
+    "talent_name": "Surprise Strike",
+    "rank": 9,
+    "strain": 1,
+    "description": "Using this knack, the Adept may inflict increased damage against an opponent using ranged attacks.  If the adept makes a successful ranged attack against a harried, blindsided, or otherwise distracted opponent, the damage step of the attack is increased by 2 steps."
+  },
+  {
+    "name": "Air Conditioning",
+    "talent_name": "Temperature",
+    "rank": 6,
+    "strain": 2,
+    "description": "The adept changes the temperature around himself, instead of that of a room, to maintain a comfortable temperature at all times. Use of this knack allows him to wear light clothing in freezing environments or to keep cool while walking along the shores of Death's Sea. The knack does not protect the adept against wind and weather, or heat- and cold-based attacks directed at him."
+  },
+  {
+    "name": "Create Thread Item [Thread Smithing]",
+    "talent_name": "Thread Smithing",
+    "rank": 7,
+    "strain": 2,
+    "description": "The adept creates a thread item. Create Thread Item Tests are performed using the adept's Thread Weaving Step (see Enchanting, p. 123, for more information)."
+  },
+  {
+    "name": "Attribute Pattern",
+    "talent_name": "Thread Weaving",
+    "rank": 15,
+    "strain": 2,
+    "description": "The adept weaves a temporary astral filter allowing him to channel raw magical energy into his pattern, enhancing one of his Attributes. He chooses one of his Attributes and makes a Thread Weaving Test against the Attribute Value. This Test requires 1 Karma Point to be spent. For every Result Level achieved, starting with an Average Result, he increases the Attribute's Step by +1 for a number of rounds equal to his Thread Weaving Rank. Any one Attribute can only benefit from one use of Attribute Pattern."
+  },
+  {
+    "name": "Braiding Threads",
+    "talent_name": "Thread Weaving",
+    "rank": 7,
+    "strain": 2,
+    "description": "The adept enhances their animal companions through the combined use of blood and thread magic.  Further detail on this process is provided in the Beastmaster's Companion supplement."
+  },
+  {
+    "name": "Create Common Magic Item",
+    "talent_name": "Thread Weaving",
+    "rank": 5,
+    "strain": 2,
+    "description": "The adept creates a common magic item. Create Common Magic Item Tests are performed using the adept's Thread Weaving Step (see Enchanting, p. 153, for more information)."
+  },
+  {
+    "name": "Engender Item",
+    "talent_name": "Thread Weaving",
+    "rank": 6,
+    "strain": 2,
+    "description": "Using the \"Path of Deeds\", the adept creates a personal thread item that only they can use. Enginder Item Tests are performed using the adept's Thread Weaving Step (see Engendering supplement for more information)."
+  },
+  {
+    "name": "Ghost Master Ritual",
+    "talent_name": "Thread Weaving",
+    "rank": 7,
+    "strain": 0,
+    "description": "Unique to each Discipline. The adept summons the ghost of a practitioner of his Discipline as a trainer for Circle advancement. See Ghost Masters, p. 10, for more information. Unlike other Thread Weaving talent knacks available to all types of Thread Weaving, the Ghost Master Ritual talent knack is specific to the Thread Weaving talent of each Discipline, as the ritual to be performed differs, and if the knack is learned from a tutor, the tutor must follow that Discipline. For example, an adept who is a Warrior and Archer must learn this talent knack twice, once from a Warrior tutor and once from an Archer tutor, to be able to summon a ghost master for both Disciplines."
+  },
+  {
+    "name": "Talent Linking",
+    "talent_name": "Thread Weaving",
+    "rank": 8,
+    "strain": "2+",
+    "description": "The adept weaves a temporary thread to a target's talent, increasing its Rank. The target must be of the same Discipline as the adept, and the adept must have learned the talent he intends to enhance for the target. The adept makes a Thread Weaving Test against the target's Talent Step. For each Result Level achieved on this test, starting with an Average Result, the target receives a +1 Rank bonus to the talent. The bonus lasts until the end of the following round, but the adept can extend the duration each round by taking another 1 Strain as a Standard Action, up to a number of rounds equal to his Thread Weaving Rank. A target can only have a talent enhanced by up to three adepts, although he can have more than one talent enhanced. When performing ritual magic, which requires more time than Talent Linking allows, the adept may grant the enhancement for longer periods. By taking 2 Blood Magic Damage that lasts a year and a day instead of the initial 2 Strain, the enhancement is active for a number of days equal to the Thread Weaving Rank. Instead of maintaining the enhancement, the adept takes another 2 Blood Magic Damage every time the enhanced talent is used for a Talent Test."
+  },
+  {
+    "name": "Talent Pattern",
+    "talent_name": "Thread Weaving",
+    "rank": 13,
+    "strain": 2,
+    "description": "The adept weaves a temporary astral filter allowing him to channel raw magical energy into his pattern, enhancing one of his Talent Ranks. He chooses one of his talents and makes a Thread Weaving Test against the Talent Rank, spending a Karma Point. For every Result Level achieved, starting with an Average Result, he gains a +1 Rank bonus to that talent for a number of rounds equal to his Thread Weaving Rank. Any one talent can only benefit from one use of Talent Pattern at a time."
+  },
+  {
+    "name": "Thread Masking",
+    "talent_name": "Thread Weaving",
+    "rank": 7,
+    "strain": 2,
+    "description": "The adept increases the difficulty of detecting and identifying a permanent (not spell) thread he has woven. When using Thread Masking, the character requires a Result Level one higher (usually a Good Result) for the Thread Weaving Test to be successful. Any attempts to identify the thread add the adept's Thread Weaving Rank to their Difficulty Number. This talent knack is only relevant when the Detecting Threads optional rule (see the Gamemaster's Companion for details) is used."
+  },
+  {
+    "name": "Unraveling",
+    "talent_name": "Thread Weaving",
+    "rank": 7,
+    "strain": "2+",
+    "description": "The adept \"unweaves\" a spell pattern, pulling it apart and ending the spell. Spell patterns can be unraveled this way because of their fragile and fairly delicate nature. This knack is commonly learned and used by non-magician adepts who do not have access to the Dispel Magic spell, as well as by those adepts who often deal with hostile spells and magic (such as Thieves and Weaponsmiths). The pattern must be seen clearly, using some form of astral perception ability, to unravel it. The adept makes a separate Thread Weaving Test against the spell's Weaving Difficulty for each thread required by the spell. If the spell does not require any threads, this step is ignored. Each Thread Weaving Test causes 2 Strain. Once the adept has unraveled the spell's threads (if any), he takes another 2 Strain and makes a final Thread Weaving Test against the spell's Dispel Difficulty. If successful, the spell is broken and dispelled. If failed, the core of the spell remains intact and it continues unaffected. If the adept fails to completely unravel a spell he cannot attempt to unravel that same spell again that day, unless he spends a Recovery Test for each additional attempt. This knack can be used only on complete spell patterns, not on patterns in the process of being formed. Thus, an adept cannot unravel the threads woven by a magician in the process of casting a spell. The knack can affect Named spells only if the Key Knowledges are known."
+  },
+  {
+    "name": "Improvised Missiles",
+    "talent_name": "Throwing Weapons",
+    "rank": 7,
+    "strain": 1,
+    "description": "The adept uses an object no bigger than twelve inches long as a throwing weapon. He does not incur a penalty to hisAttack Test when hurling the improvised missile (Player's Guide, p. 232), but he must be able to lift the object. The adept makes a Throwing Weapons Test, as normal. If successful, the gamemaster determines the Damage Step of the improvised missile-most objects are Damage Step 1, but some larger or heavier objects may be Damage Step 2 or even 3. Objects hurled using this knack have the same range as a dagger (Player's Guide, p. 232)."
+  },
+  {
+    "name": "Pin Up",
+    "talent_name": "Throwing Weapons",
+    "rank": 8,
+    "strain": 2,
+    "description": "The adept pins a character to a nearby wall or other structure with a thrown weapon. The target must be within 2 yards (1 hex) of a structure or wall and wearing clothing that can be suitably pinned. The adept must use a weapon that can feasibly pin someone, such as a dagger, knife, or spear, and makes a Throwing Weapons Test against the target's Physical Defense. On a Good Result, the weapon pins the target's clothing to the wall. The adept does not make a Damage Test. Instead, the target can only free himself by making a successful Strength Test against the attack's Damage Step. While pinned the target is Harried."
+  },
+  {
+    "name": "Placed Throw",
+    "talent_name": "Throwing Weapons",
+    "rank": 7,
+    "strain": 2,
+    "description": "The adept may declare and use the Aggressive Attack combat option with a thrown weapon. His Movement Rate is reduced to 2 yards (1 hex) that round, but the adept gains the benefits (and penalties) of a normal Aggressive Attack for each Attack Test with a throwing weapon he makes, the first of which must be with the Throwing Weapons talent. The knack's Strain cost includes the Strain cost of the Aggressive Attack."
+  },
+  {
+    "name": "Adept's Best Friend",
+    "talent_name": "Tracking",
+    "rank": 6,
+    "strain": 3,
+    "description": "The adept locates another character's mount, familiar, or animal companion by touching the owner and making a Tracking Test against the animal's Spell Defense. If successful, the adept can follow tracks to the animal as if he had successfully used the Tracking talent. This knack can only locate animals with strong bonds to their owners, such as a Cavalryman's mount, a familiar, or a Beastmaster's animal companions."
+  },
+  {
+    "name": "Animal's Best Friend",
+    "talent_name": "Tracking",
+    "rank": 6,
+    "strain": 4,
+    "description": "The adept locates the owner of a mount, familiar, or animal companion by touching the animal and making a Tracking Test against the owner's Spell Defense. If successful, the adept can follow tracks to the animal's owner as if he had successfully used the Tracking talent. This knack can only locate targets with strong bonds to their animals, such as a Cavalryman's mount, a familiar, or a Beastmaster's animal companions."
+  },
+  {
+    "name": "Astral Tracking",
+    "talent_name": "Tracking",
+    "rank": 9,
+    "strain": 2,
+    "description": "The adept, who must be able to see into astral space (using the Astral Sight talent or a similar ability), can use his Tracking talent to follow a character in astral space by using this talent knack."
+  },
+  {
+    "name": "Identify Tracks",
+    "talent_name": "Tracking",
+    "rank": 7,
+    "strain": 2,
+    "description": "The adept determines the composition of a group he is tracking by making a Tracking Test. On a Good Result, he learns the exact number of members and the distinct races that make up the target group. If the tracks are non-humanoid, the test provides the general size of the creature and identifies its manner of movement (run, slither, fly, 2-legged, 4-legged, etc.).  An Excellent Result or better may provide the adept with even more information, at the gamemaster's discretion."
+  },
+  {
+    "name": "Feinting Lunge",
+    "talent_name": "Trick Riding",
+    "rank": 8,
+    "strain": 3,
+    "description": "An adept making a Charging Attack against an opponent declares that he is setting up his opponent to be struck by a designated companion. If his Attack Test is successful, he makes a Trick Riding Test against the opponent's Physical Defense. If successful, he does not add his mount's Strength Step to the Damage Test, but the designated companion adds the adept's Trick Riding Rank to his next Attack Test against the adept's opponent before the end of the following round."
+  },
+  {
+    "name": "Feinting Retreat",
+    "talent_name": "Trick Riding",
+    "rank": 7,
+    "strain": 3,
+    "description": "An adept using Trick Riding to avoid an opponent's attack declares that he is setting up his assailant to run into one of his companion's blows. He takes the higher Strain cost and declares which companion gains a bonus before making his Trick Riding Test. The adept requires a Good Result on the Trick Riding Test. If successful, the designated companion adds the adept's Trick Riding Rank to his next Attack Test against the adept's opponent before the end of the following round."
+  },
+  {
+    "name": "Mountain Hoof",
+    "talent_name": "Trick Riding",
+    "rank": 8,
+    "strain": "see text",
+    "description": "The adept may safely ride his mount at extremely steep angles, up to a 60-degree slope. Both rider and mount take the two strain per round. The mount cannot be carrying more weight than its Carrying Capacity allows, including the rider, and cannot drag anything behind it while traversing the slope."
+  },
+  {
+    "name": "Swift Hoof",
+    "talent_name": "Trick Riding",
+    "rank": 5,
+    "strain": 1,
+    "description": "The adept goads his mount to increased speed. He spends a Karma Point, but does not make a Trick Riding Test. His mount's Movement Rate is increased by a number of hexes equal to the Trick Riding Rank. This is treated as if the mount used the Sprint talent (the mount cannot use Great Leap, the bonus is not doubled when using Running, and so on). The mount also takes the Strain, rather than the rider."
+  },
+  {
+    "name": "Head Butt",
+    "talent_name": "Unarmed Combat",
+    "rank": 7,
+    "strain": 2,
+    "description": "While maintaining a grappling hold, the adept may try to stun his opponent by making an Unarmed Combat Test as a special Attack Test. If successful, the target is Stunned (Player's Guide, p. 228) for one round per Result Level, starting with a Good Result. On a Pathetic Result, the adept himself is Stunned for one round-he strikes a vulnerable part of his own head."
+  },
+  {
+    "name": "Mighty Throw",
+    "talent_name": "Unarmed Combat",
+    "rank": 8,
+    "strain": 2,
+    "description": "The adept grabs an opponent and flings them around or throws him through the air by making an Unarmed Combat Test. The Unarmed Combat Test requires a Good Result and, if successful, instead of causing normal damage, the adept throws his opponent up to a number of hexes equal to the Result Level achieved, starting with an Average Result (twice this distance in yards). If another target is within the line of flight, this opponent is hit if the Unarmed Combat Test is also successful against his Physical Defense, although this second opponent is entitled to evade the Attack by abilities such as Avoid Blow or Spirit Dodge, but not abilities such as Parry or Riposte. The thrown opponent, as well as the opponent hit by the thrown opponent, suffer Damage equal to a Strength Test made by the adept. They then must succeed at a Knockdown Test against the result of the Strength Test or be Knocked Down."
+  },
+  {
+    "name": "Pin Down",
+    "talent_name": "Unarmed Combat",
+    "rank": 7,
+    "strain": 2,
+    "description": "The adept more effectively grapples and holds down a Knocked Down opponent. If the adept makes a successful Grappling attack against his opponent using the Pin Down knack (see Grappling, p. 230 of the Player's Guide), he is not considered Knocked Down himself (although he is more easily Blindsided as he is not able to turn away from the opponent without breaking the lock). The adept can maintain the grapple as normal."
+  },
+  {
+    "name": "Faulty Bowyer",
+    "talent_name": "Warp Missile",
+    "rank": 9,
+    "strain": 4,
+    "description": "The adept makes a missile weapon useless instead of just reducing its Damage Step. He makes a Warp Missile Test, requiring an Extraordinary Result. If successful, the weapon's frame cracks, making it useless until repaired; see Repairing Damaged Weapons on p. 253 of the Player's Guide, and treat the weapon's Damage Step as 1 for the purpose of determining repair cost and time."
+  },
+  {
+    "name": "Glide",
+    "talent_name": "Wind Catcher",
+    "rank": 8,
+    "strain": 2,
+    "description": "The adept can travel farther when using Wind Catcher. Instead of being allowed to move as far horizontally as vertically, he can now move three times as far horizontally as he moves vertically. For example, an adept using Wind Catcher to fall a distance of 20 yards can now land 60 yards away from where he would have landed if falling straight down. "
+  },
+  {
+    "name": "Create Armored Matrix Object [Wizardry]",
+    "talent_name": "Wizardry",
+    "rank": 12,
+    "strain": 2,
+    "description": "The adept creates an armored spell matrix object. Create Armored Matrix Object Tests are performed using the adept's Thread Weaving Step (see Enchanting, p. 153, for more information)."
+  },
+  {
+    "name": "Create Enhanced Matrix Object [Wizardry]",
+    "talent_name": "Wizardry",
+    "rank": 8,
+    "strain": 2,
+    "description": "The adept creates an enhanced spell matrix object. Create Enhanced Matrix Object Tests are performed using the adept's Thread Weaving Step (see Enchanting, p. 123, for more information)."
+  },
+  {
+    "name": "Create Shared Matrix Object [Wizardry]",
+    "talent_name": "Wizardry",
+    "rank": 15,
+    "strain": 2,
+    "description": "The adept creates a shared spell matrix object. Create Shared Matrix Object Tests are performed using the adept's Thread Weaving Step (see Enchanting, p. 123, for more information)."
+  },
+  {
+    "name": "Create Spell [Wizardry]",
+    "talent_name": "Wizardry",
+    "rank": 8,
+    "strain": 2,
+    "description": "Using this knack, an Adept may craft a spell subject to the rules presented in \"Magic:  A Manual of Mystical Secrets\"."
+  },
+  {
+    "name": "Create Spell Matrix Object [Wizardry]",
+    "talent_name": "Wizardry",
+    "rank": 5,
+    "strain": 2,
+    "description": "The adept creates a spell matrix object. Create Spell Matrix Object Tests are performed using the adept's Thread Weaving Step (see Enchanting, p. 123, for more information)."
+  },
+  {
+    "name": "Ironbark Sinew",
+    "talent_name": "Woodskin",
+    "rank": 7,
+    "strain": 2,
+    "description": "An Adept with the Ironbark Sinew knack may use his Wood Skin talent to bolster his wound threshold.  The Adept takes 2 strain and spends 1 recovery test to increase his wound threshold by a value equal to his talent rank.  This increase only lasts for a number of minutes equal to the rank of the Adepts Wood Skin talent."
+  }
+]

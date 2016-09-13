@@ -1,0 +1,16 @@
+===== sending delete all talents request =====
+===== all talents deleted =====
+===== uploading talent data =====
+===== talent data uploaded =====
+{"numInserts":279,"numFailues":0,"errors":[],"errorInstances":[]}
+
+===== sending delete all knacks request =====
+===== sending delete all disciplines request =====
+===== all disciplines deleted =====
+===== uploading discipline data =====
+===== all knacks deleted =====
+===== uploading knack data =====
+===== discipline data uploaded =====
+{"numInserts":1,"numFailues":0,"errors":[],"errorInstances":[]}
+===== knack data uploaded =====
+{"numInserts":154,"numFailues":0,"errors":[],"errorInstances":[]}

@@ -3,16 +3,17 @@ var express = require('express'), mongoose = require('mongoose'),
 
 var dbUser = process.env.DB_USER_NAME;
 var dbPassword = process.env.DB_PASSWORD;
+var mongodbUri = process.env.MONGODB_URI || 'mongodb://localhost/earthdawn';
+
 if (process.env.ENV == 'test') {
     mongoose.connect('mongodb://localhost/earthdawn_test')
 } else {
-    mongoose.connect('mongodb://localhost/earthdawn');
+    mongoose.connect(mongodbUri);
 }
 
 var db = mongoose.connection;
 var app = express();
-var port = process.env.PORT || 3000;
-port = 8080;
+var port = process.env.PORT || 8080;
 
 app.use(bodyParser.urlencoded({extended: true, limit: '50mb'}));
 app.use(bodyParser.json({limit: '50mb'}));

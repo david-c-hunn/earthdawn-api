@@ -8,7 +8,7 @@ var SpellSchema = new Schema({
         enum: ['Elementalist', 'Nethermancer', 'Wizard', 'Illusionist']
     },
     circle: { type: Number, required: true },
-    threads: { type: Number, required: true },
+    threads: { type: String, required: true },
     weave: { type: Number, required: true },
     snap: { type: Number, required: true },
     target: { type: String, required: true },

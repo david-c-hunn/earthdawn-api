@@ -1,9 +1,10 @@
 var request = require('request'), fs = require('fs');
 
-var apiURL = 'http://localhost:8000/earthdawn',
+var apiURL = 'http://earthdawn-api.herokuapp.com/earthdawn',
     talents = fs.createReadStream('./talents.json'),
     knacks = fs.createReadStream('./knacks.json'),
-    disciplines = fs.createReadStream('./disciplines.json');
+    disciplines = fs.createReadStream('./disciplines.json'),
+    spells = fs.createReadStream('./spells.json');
 
 function onDiscsUploaded(err, res, bod) {
     if (err) { console.log(err); } 
@@ -64,5 +65,24 @@ function onTalentsDeleted(err, res, bod) {
     }
 }
 
+function onSpellsUploaded(err, res, bod) {
+    if (err) { console.log(err); } 
+    else {
+        console.log('===== spell data uploaded =====');
+        console.log(bod);
+        console.log();
+    }
+}
+
+function onSpellsDeleted(err, res, bod) {
+    if (err) { console.log(err); }
+    else {
+        console.log('===== all spells deleted =====');
+        console.log('===== uploading spell data =====');
+        spells.pipe(request.post(apiURL + '/spells/bulk', onSpellsUploaded));
+    }
+}
+
 console.log('===== sending delete all talents request =====')
 request.delete(apiURL + '/talents/delete_all', onTalentsDeleted);
+request.delete(apiURL + '/spells/delete_all', onSpellsDeleted);

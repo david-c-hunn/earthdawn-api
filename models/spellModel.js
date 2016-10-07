@@ -14,7 +14,7 @@ var SpellSchema = new Schema({
     target: { type: String, required: true },
     range: { type: String, required: true },
     duration: { type: String, required: true },
-    aoe: { type: String, required: true },
+    aoe: { type: String },
     effect: { type: String, required: true },
     description: { type: String, required: true }
 });

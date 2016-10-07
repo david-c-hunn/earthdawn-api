@@ -11,3 +11,9 @@ excelToJson('knacks.xlsx', 'knacks.json', false, function (err, data) {
         console.log(err);
     }
 });
+
+excelToJson('spells.xlsx', 'spells.json', false, function (err, data) {
+    if (err) {
+        console.log(err);
+    }
+});
